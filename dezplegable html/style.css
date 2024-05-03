@@ -1,0 +1,49 @@
+/* Estilo para el tooltip */
+.principal{  
+    width: 100%; /* Ancho del div */
+    margin: 0 auto; /* Centra el div horizontalmente */
+    padding: 20px;
+    border: 1px solid #ccc;
+    background-color: #f9f9f9;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%; /* Ajusta la altura según sea necesario */
+    border-radius: 20px;
+}
+
+button {
+    border: none;
+    background: none;
+    padding: 0;
+    cursor: pointer;
+}
+
+#texto {
+    color: rgb(34, 241, 34);
+    background-color: rgb(0, 0, 0);
+    font-family:'Times New Roman', Times, serif;
+    width: 700px; /* Ancho del div */
+    margin: 0 auto; /* Centra el div horizontalmente */
+    padding: 20px;
+    border: 20px solid #49cc50;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 900px; /* Ajusta la altura según sea necesario */
+    border-radius: 20px;
+  }
+  
+#texto b {
+    font-weight: bold;
+    text-align: left;
+}
+
+#texto h1{
+    text-align: center;
+}
+
+#video {
+    width: 700px; /* Ancho del contenedor del video */
+    margin: 0 auto; /* Centrar horizontalmente */
+  }
